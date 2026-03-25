@@ -3,8 +3,8 @@
 class ClaudePro < Formula
   desc "Run Claude Code in a non-interactive loop"
   homepage "https://github.com/ilya-savinkov/ClaudePro"
-  url "https://rubygems.org/downloads/claude_pro-0.1.0.gem"
-  sha256 "9aab564f2fe1c7133525982d61e9c101ea95faa3a0d56d95ca1b5f974b69913d"
+  url "https://github.com/ilya-savinkov/ClaudePro/releases/download/v1.0.0/claude_pro-1.0.0.gem"
+  sha256 "5a51c4e310ff2423312768c9c0a5842a219e132848d272640429debf4f8ad27b"
   license "MIT"
 
   depends_on "ruby" => ">= 4.0"
